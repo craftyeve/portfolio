@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(147, 238, 177);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.yellow-back {
+    background-color: rgb(255, 255, 157);
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p {
+    margin-left: 40px;
+    margin-right: 40px;
+}
